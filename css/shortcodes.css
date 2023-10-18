@@ -40,8 +40,8 @@ background-clip: text;}
     Social Icons
 ------------------------*/
 .social-icons ul { padding: 0; margin: 0; line-height: 0; }
-.social-icons li { display: inline-block; list-style: none; padding: 0; margin: 0 8px 0 0; }
-.social-icons li a { border-radius: 8px; display: inline-block; height: 40px; width: 40px; line-height: 40px; font-size: 14px; text-align: center; background: transparent; color: var(--theme-body-color); }
+.social-icons li { display: inline-block; list-style: none; padding: 0; margin: 0 0px 0 0; }
+.social-icons li a { border-radius: 8px; display: inline-block; height: 39px; width: 39px; line-height: 40px; font-size: 14px; text-align: center; background: transparent; color: var(--theme-body-color); }
 .social-icons li a:hover { color: var(--theme-primary-color); }
 
 

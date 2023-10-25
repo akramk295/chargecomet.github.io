@@ -188,14 +188,14 @@ a, i, .btn, button, img, span, ul, li, a:before, .dropdown-menu, .feature-icon, 
     .ht-toggler[aria-expanded="true"] .line1 { stroke-dasharray: 90 207; stroke-dashoffset: -134; stroke-width: 3; }
     .ht-toggler[aria-expanded="true"] .line2 { stroke-dasharray: 1 60; stroke-dashoffset: -30; stroke-width: 3; }
     .ht-toggler[aria-expanded="true"] .line3 { stroke-dasharray: 90 207; stroke-dashoffset: -134; stroke-width: 3; }
-    .navbar-collapse { background: var(--theme-white-color); max-height: 400px; left: 0; padding: 20px; position: absolute; z-index: 99; top: 100%; width: 100%; overflow: auto; border: medium none; -webkit-box-shadow: 0 0 45px rgb(5 28 141 / 10%); -moz-box-shadow: 0 0 45px rgb(5 28 141 / 10%); box-shadow: 0 0 45px rgb(5 28 141 / 10%); }
+    .navbar-collapse { background: var(--theme-bg-dark-color); max-height: 400px; left: 0; padding: 20px; position: absolute; z-index: 99; top: 100%; width: 100%; overflow: auto; border: medium none; -webkit-box-shadow: 0 0 45px rgb(5 28 141 / 10%); -moz-box-shadow: 0 0 45px rgb(5 28 141 / 10%); box-shadow: 0 0 45px rgb(5 28 141 / 10%); }
     .navbar-nav .dropdown-toggle::after { position: absolute; top: 50%; right: 0; margin: -.1rem 0.5em 0 0; border-color: var(--theme-white-color); }
     .navbar-nav .nav-link { padding: 10px !important; color: var(--theme-white-color); }
     .navbar-nav .nav-item .nav-link.active { background: var(--theme-primary-color); color: var(--theme-white-color); }
     .navbar-nav .nav-link.active.dropdown-toggle::after { border: solid var(--theme-white-color); border-width: 0 2px 2px 0; }
     .navbar-nav .dropdown-menu a.active { background: none; color: var(--theme-primary-color); }
     .nav-item.dropdown .dropdown-menu a.active:before{opacity: 1; left: 0; color: var(--theme-primary-color); animation: rotate 5s ease-in-out infinite;}
-    .navbar-nav .nav-item.dropdown .dropdown-menu { background: var(--theme-white-color); padding: 10px 20px; box-shadow: none;}
+    .navbar-nav .nav-item.dropdown .dropdown-menu { background: var(--theme-bg-dark-color); padding: 10px 20px; box-shadow: none;}
     .navbar-nav .dropdown-menu a { color: var(--theme-white-color);}
     .dropdown-submenu a.dropdown-toggle::after {border: solid var(--theme-white-color); border-width: 0 2px 2px 0;  width: 0.425rem;}
     

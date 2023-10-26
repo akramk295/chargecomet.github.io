@@ -458,7 +458,10 @@ pre{background: var(--theme-bg-dark2-color); border-radius: 8px;}
     .social-icons.footer-social li a { height: 45px; width: 45px; line-height: 45px; font-size: 26px; }
 
     .accordion-button {
-      font-size: 16px;
+      font-size: 16px!important;
+  }
+  .banner-video{
+    padding: 30px 0!important;
   }
 }
 

@@ -1060,7 +1060,7 @@ pre {
 
   .logo img {
     /* max-height: var(--logo-tablet-height); */
-    max-height: 80px!important;
+    max-height: 80px !important;
   }
 
   .banner-content {
@@ -1402,8 +1402,10 @@ pre {
   .service-item.style-1 .service-desc {
     padding-right: 0px;
   }
-  .service-item.style-1 .service-image{
-    display: none;;
+
+  .service-item.style-1 .service-image {
+    display: none;
+    ;
   }
 }
 
@@ -1430,6 +1432,21 @@ pre {
 /* Whatsapp CSS END*/
 
 @media (max-width:992px) {
-  .service-marque{padding-right:1rem!important;padding-left:1rem!important}
-  .feedback-marque{padding-right:.5rem!important;padding-left:.5rem!important}
+  .service-marque {
+    padding-right: 1rem !important;
+    padding-left: 1rem !important
+  }
+
+  .feedback-marque {
+    padding-right: .5rem !important;
+    padding-left: .5rem !important
+  }
+  .owl-carousel:hover .owl-nav button.owl-prev, .owl-carousel:hover .owl-nav button.owl-next{
+    display: none;
+}
+.owl-carousel:hover .owl-nav button.owl-next
+
+  /* .testimonial.style-1 .testimonial-img img{
+    width: 90%;
+  } */
 }

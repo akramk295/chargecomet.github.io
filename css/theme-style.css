@@ -1442,7 +1442,7 @@ pre {
     padding-left: .5rem !important
   }
   .owl-carousel:hover .owl-nav button.owl-prev, .owl-carousel:hover .owl-nav button.owl-next{
-    display: none;
+    display: none!important;
 }
 /* .owl-carousel:hover .owl-nav button.owl-next */
 

@@ -1444,7 +1444,7 @@ pre {
   .owl-carousel:hover .owl-nav button.owl-prev, .owl-carousel:hover .owl-nav button.owl-next{
     display: none;
 }
-.owl-carousel:hover .owl-nav button.owl-next
+/* .owl-carousel:hover .owl-nav button.owl-next */
 
   /* .testimonial.style-1 .testimonial-img img{
     width: 90%;

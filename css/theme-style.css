@@ -1444,6 +1444,12 @@ pre {
   .owl-carousel:hover .owl-nav button.owl-prev, .owl-carousel:hover .owl-nav button.owl-next{
     display: none!important;
 }
+
+.testimonial-logo{
+  max-width: 65%!important;
+  
+}
+
 /* .owl-carousel:hover .owl-nav button.owl-next */
 
   /* .testimonial.style-1 .testimonial-img img{

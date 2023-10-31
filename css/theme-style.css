@@ -1452,7 +1452,7 @@ pre {
 
   }
   .fordesktop{
-    display: none;
+    display: none!important;
   }
   .formobile{
     display: block!important;

@@ -1451,14 +1451,14 @@ pre {
     max-width: 65% !important;
 
   }
-  .fordesktop{
+  .fordesktop, .desktop-video{
     display: none!important;
   }
-  .formobile{
+  .formobile, .mobile-video{
     display: block!important;
   } 
 }
 
-.formobile{
+.formobile, .mobile-video{
   display: none;
 }

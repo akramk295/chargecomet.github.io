@@ -1446,6 +1446,13 @@ pre {
   .owl-carousel:hover .owl-nav button.owl-next {
     display: none !important;
   }
+  .video-content-for-mobile h1{
+    font-size: 26px!important;
+  }
+  .video-content-for-mobile .banner-video-text2{
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+  }
   .footer-copyright{
     font-size: 12px;
   }

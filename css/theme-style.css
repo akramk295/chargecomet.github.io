@@ -1446,6 +1446,9 @@ pre {
   .owl-carousel:hover .owl-nav button.owl-next {
     display: none !important;
   }
+  .footer-copyright{
+    font-size: 12px;
+  }
 
   .testimonial-logo {
     max-width: 55% !important;
@@ -1461,4 +1464,8 @@ pre {
 
 .formobile, .mobile-video{
   display: none;
+}
+
+.la-copyright{
+  font-size: 18px;
 }

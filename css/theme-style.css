@@ -1469,3 +1469,13 @@ pre {
 .la-copyright{
   font-size: 18px;
 }
+.social-icon a i{
+  font-size: 22px;
+}
+.about-social li a {
+  height: 30px;
+  width: 30px;
+  line-height: 40px;
+  font-size: 24px;
+  color: var(--theme-white-color);
+}

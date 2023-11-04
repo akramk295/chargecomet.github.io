@@ -1449,6 +1449,10 @@ pre {
   .video-content-for-mobile h1{
     font-size: 33px!important;
   }
+  .whatsapp-float{
+    bottom: 74px!important;
+    right: 20px!important;
+  }
   
   .footer-copyright{
     font-size: 12px;
